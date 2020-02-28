@@ -109,6 +109,5 @@ tetime(2020, 2, 22, 1, 42, 17, 42678), 'created_at': datetime.datetime(2020, 2, 
 [Python](https://www.python.org/_(programming_language)) - Programming language
 
 ## Authors
-- **Samir Millan Orozco [Gaspela04]** https://github.com/Gaspela04
 - **Kevin castro  [KevinCastroP]** https://github.com/KevinCastroP
 
